@@ -1,0 +1,12 @@
+C:\Users\Bilel\source\repos\DS1\DS1\bin\Debug\DS1.exe.config
+C:\Users\Bilel\source\repos\DS1\DS1\bin\Debug\DS1.exe
+C:\Users\Bilel\source\repos\DS1\DS1\bin\Debug\DS1.pdb
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.csproj.AssemblyReference.cache
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.Category.resources
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.Form1.resources
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.Properties.Resources.resources
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.csproj.GenerateResource.cache
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.exe
+C:\Users\Bilel\source\repos\DS1\DS1\obj\Debug\DS1.pdb
